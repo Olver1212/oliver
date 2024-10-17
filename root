@@ -1,1 +1,12 @@
-
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oliver Weboldala</title>
+</head>
+<body>
+    <h1>Üdvözlöm az oldalon!</h1>
+    <p>Ez a weboldal bemutatja, hogyan lehet GitHub Pages-t használni.</p>
+</body>
+</html>
